@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "ProjectReactAPI",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authprojectreactgraphql269794b9",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

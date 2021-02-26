@@ -1,0 +1,5 @@
+type Player @model {
+  id: ID!
+  name: String!
+  score: Int!
+}

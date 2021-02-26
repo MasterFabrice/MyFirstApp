@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-projectreactgraphql-dev-212219-authRole",
+      "UnauthRoleArn": "arn:aws:iam::477263034502:role/amplify-projectreactgraphql-dev-212219-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::477263034502:role/amplify-projectreactgraphql-dev-212219-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-projectreactgraphql-dev-212219-deployment",
+      "UnauthRoleName": "amplify-projectreactgraphql-dev-212219-unauthRole",
+      "StackName": "amplify-projectreactgraphql-dev-212219",
+      "StackId": "arn:aws:cloudformation:eu-central-1:477263034502:stack/amplify-projectreactgraphql-dev-212219/2ca8b5f0-77a7-11eb-976d-0ad1bb830c16",
+      "AmplifyAppId": "d4qglzemqy31m"
+    },
+    "categories": {
+      "auth": {
+        "projectreactgraphql269794b9": {}
+      }
+    }
+  }
+}
